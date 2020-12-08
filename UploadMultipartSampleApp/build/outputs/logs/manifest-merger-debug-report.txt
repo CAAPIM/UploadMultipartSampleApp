@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:1-45:12
+ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:1-45:12
 MERGED from [com.ca:mas-connecta:2.1.00] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/3bfde4fc2bf61fa03109682435af7cbf/mas-connecta-2.1.00/AndroidManifest.xml:2:1-22:12
 MERGED from [com.ca:masui:2.1.00] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/5af315ff5c623a1ffdad1acb8f88db2e/masui-2.1.00/AndroidManifest.xml:9:1-77:12
 MERGED from [com.google.android.material:material:1.0.0] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/c7eb9cd3508ac3959447c14fd76c9fb9/material-1.0.0/AndroidManifest.xml:17:1-24:12
@@ -45,45 +45,45 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/abhisheknaidu/.gradle/
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/63647da4654da12a6f2785cfbbad8123/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/733fc1d306cee2c05d3e1fb0b7527020/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/fdd65d8b6066fd289a68b42931dc03a2/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:1-45:12
 	package
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:3:5-40
-		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
-		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:1-45:12
-		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:1-45:12
-		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:5:5-80
+ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:5:5-80
 	android:name
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:5:22-78
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:5:22-78
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:6:5-74
+ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:6:5-74
 	android:name
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:6:22-72
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:6:22-72
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:7:5-79
+ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:7:22-76
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:7:22-76
 uses-permission#android.permission.BLUETOOTH
-ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:8:5-68
+ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:8:5-68
 	android:name
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:8:22-65
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:8:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:9:5-74
+ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:9:5-74
 	android:name
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:9:22-71
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:9:22-71
 uses-permission#android.permission.INTERNET
-ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:10:5-67
+ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:10:5-67
 MERGED from [com.ca:mas-connecta:2.1.00] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/3bfde4fc2bf61fa03109682435af7cbf/mas-connecta-2.1.00/AndroidManifest.xml:11:5-67
 MERGED from [com.ca:mas-connecta:2.1.00] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/3bfde4fc2bf61fa03109682435af7cbf/mas-connecta-2.1.00/AndroidManifest.xml:11:5-67
 MERGED from [com.ca:mas-foundation:2.1.00] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/95d8f5298fd7d423cab089f53e895c45/mas-foundation-2.1.00/AndroidManifest.xml:24:5-67
@@ -91,13 +91,13 @@ MERGED from [com.ca:mas-foundation:2.1.00] /Users/abhisheknaidu/.gradle/caches/t
 MERGED from [net.openid:appauth:0.7.0] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/e6e1289e2fff0011f2363de066792881/jetified-appauth-0.7.0/AndroidManifest.xml:24:5-67
 MERGED from [net.openid:appauth:0.7.0] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/e6e1289e2fff0011f2363de066792881/jetified-appauth-0.7.0/AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:10:22-64
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:10:22-64
 uses-permission#android.permission.NFC
-ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:11:5-62
+ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:11:5-62
 	android:name
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:11:22-59
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:11:22-59
 application
-ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:14:5-43:19
+ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:14:5-43:19
 MERGED from [com.ca:mas-connecta:2.1.00] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/3bfde4fc2bf61fa03109682435af7cbf/mas-connecta-2.1.00/AndroidManifest.xml:15:5-20:19
 MERGED from [com.ca:mas-connecta:2.1.00] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/3bfde4fc2bf61fa03109682435af7cbf/mas-connecta-2.1.00/AndroidManifest.xml:15:5-20:19
 MERGED from [com.ca:masui:2.1.00] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/5af315ff5c623a1ffdad1acb8f88db2e/masui-2.1.00/AndroidManifest.xml:19:5-75:19
@@ -119,59 +119,59 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/abhi
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:19:9-35
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:19:9-35
 	android:label
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:17:9-41
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:17:9-41
 	android:roundIcon
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:18:9-54
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:18:9-54
 	android:icon
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:16:9-43
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:16:9-43
 	android:allowBackup
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:15:9-35
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:20:9-40
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:20:9-40
 activity#com.brcm.apim.magtraining.MainActivity
-ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:21:9-27:20
+ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:21:9-27:20
 	android:name
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:21:19-47
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:21:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:22:13-26:29
+ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:23:17-69
+ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:23:25-66
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:25:17-77
+ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:25:27-74
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:25:27-74
 service#com.ca.mas.core.storage.sharedstorage.MASAuthenticatorService
-ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:29:9-41:19
+ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:29:9-41:19
 	android:exported
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:31:13-37
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:31:13-37
 	android:name
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:30:13-89
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:30:13-89
 intent-filter#action:name:android.accounts.AccountAuthenticator
-ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:32:13-34:29
+ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:32:13-34:29
 action#android.accounts.AccountAuthenticator
-ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:33:17-80
+ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:33:17-80
 	android:name
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:33:25-77
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:33:25-77
 meta-data#account.name
-ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:35:13-37:55
+ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:35:13-37:55
 	android:resource
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:37:17-52
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:37:17-52
 	android:name
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:36:17-44
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:36:17-44
 meta-data#android.accounts.AccountAuthenticator
-ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:38:13-40:57
+ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:38:13-40:57
 	android:resource
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:40:17-54
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:40:17-54
 	android:name
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:39:17-69
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:39:17-69
 uses-sdk
-INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
-INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
+INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
+INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
 MERGED from [com.ca:mas-connecta:2.1.00] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/3bfde4fc2bf61fa03109682435af7cbf/mas-connecta-2.1.00/AndroidManifest.xml:7:5-9:41
 MERGED from [com.ca:mas-connecta:2.1.00] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/3bfde4fc2bf61fa03109682435af7cbf/mas-connecta-2.1.00/AndroidManifest.xml:7:5-9:41
 MERGED from [com.ca:masui:2.1.00] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/5af315ff5c623a1ffdad1acb8f88db2e/masui-2.1.00/AndroidManifest.xml:15:5-17:41
@@ -254,16 +254,16 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/abhishekna
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/733fc1d306cee2c05d3e1fb0b7527020/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/fdd65d8b6066fd289a68b42931dc03a2/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/fdd65d8b6066fd289a68b42931dc03a2/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
-INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
+INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
+INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
-		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
-		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
-		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
+		ADDED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.ca:mas-connecta:2.1.00] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/3bfde4fc2bf61fa03109682435af7cbf/mas-connecta-2.1.00/AndroidManifest.xml:12:5-68
 MERGED from [com.ca:mas-foundation:2.1.00] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/95d8f5298fd7d423cab089f53e895c45/mas-foundation-2.1.00/AndroidManifest.xml:25:5-68
