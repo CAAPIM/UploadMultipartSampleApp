@@ -1,1 +1,1 @@
-# UploadMultipartSampleApp
+# SampleApp-MagTraining-UserAuthentication
