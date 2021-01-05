@@ -378,7 +378,6 @@ public class MainActivity extends AppCompatActivity {
         return byteBuffer.toByteArray();
     }
 
-
     public void upload(View view){
 
         progressDialog = new ProgressDialog(MAS.getCurrentActivity());
@@ -401,7 +400,6 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onError(MAGError error) {
                     dismissProgress();
-
                 }
             };
 
@@ -420,8 +418,6 @@ public class MainActivity extends AppCompatActivity {
                     clear();
                     showToast("ERROR: " + e.getLocalizedMessage());
                     Log.d(TAG, "Upload Response: "+ e.getMessage());
-
-
                 }
             });
 
@@ -432,8 +428,6 @@ public class MainActivity extends AppCompatActivity {
         }  finally {
             multiPart.reset();
         }
-
-
     }
 
     private void clear() {

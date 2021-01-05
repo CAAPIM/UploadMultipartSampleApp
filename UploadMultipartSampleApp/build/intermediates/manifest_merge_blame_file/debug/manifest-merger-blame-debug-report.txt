@@ -6,31 +6,31 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
+8-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
+9-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-11-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:5:5-80
-11-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:5:22-78
+11-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:5:5-80
+11-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:5:22-78
 12    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-12-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:6:5-74
-12-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:6:22-72
+12-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:6:5-74
+12-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:6:22-72
 13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-13-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:7:5-79
-13-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:7:22-76
+13-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:7:5-79
+13-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:7:22-76
 14    <uses-permission android:name="android.permission.BLUETOOTH" />
-14-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:8:5-68
-14-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:8:22-65
+14-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:8:5-68
+14-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:8:22-65
 15    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
-15-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:9:5-74
-15-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:9:22-71
+15-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:9:5-74
+15-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:9:22-71
 16    <uses-permission android:name="android.permission.INTERNET" />
-16-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:10:5-67
-16-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:10:22-64
+16-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:10:5-67
+16-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:10:22-64
 17    <uses-permission android:name="android.permission.NFC" />
-17-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:11:5-62
-17-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:11:22-59
+17-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:11:5-62
+17-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:11:22-59
 18    <uses-permission android:name="android.permission.WAKE_LOCK" />
 18-->[com.ca:mas-connecta:2.1.00] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/3bfde4fc2bf61fa03109682435af7cbf/mas-connecta-2.1.00/AndroidManifest.xml:12:5-68
 18-->[com.ca:mas-connecta:2.1.00] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/3bfde4fc2bf61fa03109682435af7cbf/mas-connecta-2.1.00/AndroidManifest.xml:12:22-65
@@ -51,63 +51,63 @@
 25-->[com.ca:mas-foundation:2.1.00] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/95d8f5298fd7d423cab089f53e895c45/mas-foundation-2.1.00/AndroidManifest.xml:23:9-35
 26
 27    <application
-27-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:14:5-43:19
+27-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:14:5-43:19
 28        android:allowBackup="true"
-28-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:15:9-35
+28-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:15:9-35
 29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 29-->[androidx.core:core:1.1.0] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/AndroidManifest.xml:24:18-86
 30        android:debuggable="true"
 31        android:icon="@mipmap/ic_launcher"
-31-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:16:9-43
+31-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:16:9-43
 32        android:label="@string/app_name"
-32-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:17:9-41
+32-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:17:9-41
 33        android:roundIcon="@mipmap/ic_launcher_round"
-33-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:18:9-54
+33-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:18:9-54
 34        android:supportsRtl="true"
-34-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:19:9-35
+34-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:19:9-35
 35        android:testOnly="true"
 36        android:theme="@style/AppTheme" >
-36-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:20:9-40
+36-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:20:9-40
 37        <activity android:name="com.brcm.apim.magtraining.MainActivity" >
-37-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:21:9-27:20
-37-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:21:19-47
+37-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:21:9-27:20
+37-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:21:19-47
 38            <intent-filter>
-38-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:22:13-26:29
+38-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:22:13-26:29
 39                <action android:name="android.intent.action.MAIN" />
-39-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:23:17-69
-39-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:23:25-66
+39-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:23:17-69
+39-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:23:25-66
 40
 41                <category android:name="android.intent.category.LAUNCHER" />
-41-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:25:17-77
-41-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:25:27-74
+41-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:25:17-77
+41-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:25:27-74
 42            </intent-filter>
 43        </activity>
 44
 45        <service
-45-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:29:9-41:19
+45-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:29:9-41:19
 46            android:name="com.ca.mas.core.storage.sharedstorage.MASAuthenticatorService"
-46-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:30:13-89
+46-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:30:13-89
 47            android:exported="false" >
-47-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:31:13-37
+47-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:31:13-37
 48            <intent-filter>
-48-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:32:13-34:29
+48-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:32:13-34:29
 49                <action android:name="android.accounts.AccountAuthenticator" />
-49-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:33:17-80
-49-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:33:25-77
+49-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:33:17-80
+49-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:33:25-77
 50            </intent-filter>
 51
 52            <meta-data
-52-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:35:13-37:55
+52-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:35:13-37:55
 53                android:name="account.name"
-53-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:36:17-44
+53-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:36:17-44
 54                android:resource="@string/acc_name" />
-54-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:37:17-52
+54-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:37:17-52
 55            <meta-data
-55-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:38:13-40:57
+55-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:38:13-40:57
 56                android:name="android.accounts.AccountAuthenticator"
-56-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:39:17-69
+56-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:39:17-69
 57                android:resource="@xml/authenticator" />
-57-->/Users/abhisheknaidu/Documents/New_Sample_Apps/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:40:17-54
+57-->/Users/abhisheknaidu/Documents/New_Sample_Apps/MultiPart/UploadMultipartSampleApp/UploadMultipartSampleApp/src/main/AndroidManifest.xml:40:17-54
 58        </service>
 59        <service android:name="org.eclipse.paho.android.service.MqttService" />
 59-->[com.ca:mas-connecta:2.1.00] /Users/abhisheknaidu/.gradle/caches/transforms-2/files-2.1/3bfde4fc2bf61fa03109682435af7cbf/mas-connecta-2.1.00/AndroidManifest.xml:19:9-80
